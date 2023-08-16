@@ -6,3 +6,9 @@ body {
   background: #202020;
   color: white;
 }
+
+.box{
+  height: 50px;
+  width: 50px;
+  background-color: palevioletred;
+}
